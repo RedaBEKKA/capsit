@@ -1,0 +1,22 @@
+// -----------------------------------------------------------------------------------------------------
+// @ Typography
+// -----------------------------------------------------------------------------------------------------
+* {
+    // font-size: 14px;
+    font-family: "Poppins,Lato", "Open Sans", "Muli", "Cairo", "Helvetica Neue", "Arial", sans-serif;
+}
+
+html {
+    font-size: 1em;
+    font-family: "Poppins,Lato", "Open Sans", "Muli", "Cairo", "Helvetica Neue", "Arial", sans-serif;
+    line-height: 1.4 !important;
+    letter-spacing: -0.1px !important;
+}
+
+body {
+    margin: 0;
+    font-family: "Poppins", "Open Sans", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans",
+        "Helvetica Neue", sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}

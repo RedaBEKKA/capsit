@@ -1,0 +1,23 @@
+{
+    "title":"Login",
+    "email":"E-mail",
+    "password":"Password",
+    "forgotPassword":"Forgot Password?",
+    "signin":"Sign In",
+    "account":"Don't have an account?",
+    "signup":"Sign Up",
+    "titleForgotPassword":"Forgot password",
+    "textForgotPassword":"Enter your email address",
+    "textForgotPasswordDetails":"We will send you an email\\with a password reset link",
+    "mailAddress":"Email address",
+    "submit": "Submit",
+    "titleNewPassword": "New Password",
+    "confirmPassword":"Password confirmation",
+    "textNewPassword":"Enter a password",
+    "textNewPasswordDetails":"Choose a secure password with at least 8 characters including a number and a password reset letter.",
+    "securityOfPassword":"Password Security :",
+    "typeSecurityOfPassword":"Weak",
+    "register":"Register",
+    "snackbarSuccess":"An email has been sent to this address."
+ 
+}

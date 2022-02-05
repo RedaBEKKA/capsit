@@ -1,0 +1,15 @@
+{
+    "key": "Welcome to React ",
+    "dynamic_key": "dynamic key {{key}} & {{key1}}",
+    "errorMessage401": "Erreur 401, accès refusé, veuillez contacter le service client.",
+    "errorMessage403": "Erreur403, accès refusé, veuillez contacter le service client.",
+    "errorMessage400": "Error 400, Bad request.",
+    "errorMessage404": "Error 404, Page not found!",
+    "errorMessage500": "Error 500, Internal Server Error",
+    "errorMessage504": "Error 504, Gateway timeout, Please try again in 30 seconds.",
+    "about": "About",
+    "privacy":"Privacy Policy",
+    "condition":"Terms and conditions of use",
+    "contact":"Contact",
+    "back":"Back to"
+}

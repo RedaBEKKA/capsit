@@ -1,0 +1,14 @@
+@import '../../../styles/variables';
+.title{
+    color: $success-color-ligth;
+
+}
+.title_bold{
+    font-weight: bold;
+    font-size:1.5em
+
+}
+.toolbar{
+    height:50px!important;
+    min-height: 50px;
+}
