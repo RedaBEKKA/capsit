@@ -33,7 +33,7 @@ export const SnackbarAlert = props => {
             </IconButton>
         </>
     );
-    console.log(message, openSnackbar, snakbarType)
+    // console.log(message, openSnackbar, snakbarType)
     return (
         <>
             <Snackbar

@@ -52,7 +52,7 @@ const Login = () => {
   })
 
   const onSubmit = (values) => {
-      console.log(values,' values')
+      // console.log(values,' values')
       dispatch(actions.auth(values))
    }
    

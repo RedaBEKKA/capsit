@@ -5,7 +5,7 @@ export const storageSetItem = (key, value) => {
 }
 export const storageGetItem = (key) => {
     const item = localStorage.getItem(key);
-    console.log(item)
+    // console.log(item)
     if (item) {
         return JSON.parse(item);
     } else {

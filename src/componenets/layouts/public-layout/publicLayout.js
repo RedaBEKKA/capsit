@@ -19,8 +19,8 @@ export const PublicLayout = props => {
     ]
 
     
-    console.log(props,'mes props')
-    console.log(page)
+    // console.log(props,'mes props')
+    // console.log(page)
 
     const goTo = (to) => {
         // to do 

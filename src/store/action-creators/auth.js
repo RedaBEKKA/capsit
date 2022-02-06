@@ -57,7 +57,7 @@ export const auth = (identifiant) => {
         dispatch(authStart())
         axios.post('https://run.mocky.io/v3/04564e78-f928-4f1c-ab05-31661d842b07', { identifiant })
             .then(res => {
-                console.log(res)
+                // console.log(res)
                 const { token, user } = res.data
                 storageSetItem('access_token', token)
                 storageSetItem('user', user)
