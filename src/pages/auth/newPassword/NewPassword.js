@@ -57,15 +57,7 @@ const NewPassword = () => {
     dispatch(actions.newPassword(values, navigate));
   };
 
-  // useEffect( async(values) => {
-  //   console.log('valuesa', values);
-  //   const IsValide = await validationSchema.isValid(values);
-  //   console.log("IsValide", IsValide);
-  //   setValide(IsValide)
 
-  // }, [])
-
-  // console.log('Valide', Valide);
   return (
     <div className={classes.newPass_login}>
       <div className={classes.newPass_container}>
